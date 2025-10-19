@@ -1,6 +1,7 @@
 # Price-Monitoring-Agent-n8n
 
 # 🛒 Amazon Price Monitoring Agent
+<img width="1842" height="557" alt="image" src="https://github.com/user-attachments/assets/46eedca7-cd70-48be-83a0-b5bd27423c0d" />
 
 An **n8n workflow** that automatically tracks Amazon product prices using the **ScrapeOps API** and sends alerts when prices increase or decrease beyond your set limits.
 

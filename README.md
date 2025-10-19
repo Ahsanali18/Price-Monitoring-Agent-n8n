@@ -42,9 +42,9 @@ Before starting, make sure you have:
 
 ### 2. Configure Google Sheets
 
-Download the provided [Spreadsheet Template](./Amazon_Price_Tracker_Template.xlsx) from this repository, or create your own with the required structure.  
-Set up the **"Products to Monitor"** sheet with your Amazon ASINs, target prices, and alert thresholds.  
-Connect your Google Sheets nodes in n8n to this sheet after uploading it to your Google Drive.
+* Download the provided [Spreadsheet Template](./Amazon_Price_Tracker_Template.xlsx) from this repository, or create your own with the required structure.  
+* Set up the **"Products to Monitor"** sheet with your Amazon ASINs, target prices, and alert thresholds.  
+* Connect your Google Sheets nodes in n8n to this sheet after uploading it to your Google Drive.
 
 ### 3. Add Your ScrapeOps API Key
 
